@@ -14,4 +14,4 @@ Visual Studio For Mac  2017. You may use it in  that version or create
 one in VS 2017 for windows by following the steps in the article.
 
 ## Issues
-You can contact me at mailto:sunit.joshi@hexagon.com
+You can contact me sunit.joshi@hexagon.com
